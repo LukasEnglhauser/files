@@ -1,4 +1,4 @@
-module github.com/swaggo/files
+module github.com/LukasEnglhauser/files
 
 go 1.16
 
